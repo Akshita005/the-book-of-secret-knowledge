@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">  <!--it sets the text centre-align-->
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
   </a>
@@ -8,7 +8,7 @@
 
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
-<br>
+<br>  <--<br> element is used to insert a line break-->
 
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
